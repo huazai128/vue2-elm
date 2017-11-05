@@ -1,0 +1,2 @@
+1、在支持scss预编译器时，需要安装sass sass-loader scss scss-loader node-sass
+2、[vuex] unknown mutation type: 报这个错，是因为没有mutations中处理相关的mutation-types
